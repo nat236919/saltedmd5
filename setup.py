@@ -16,7 +16,7 @@ setuptools.setup(
     url='https://github.com/nat236919/saltedmd5',
     packages=setuptools.find_packages(),
     python_requires=">=3.5",
-    install_requires=[],
+    install_requires=['random', 'string', 'hashlib'],
     classifiers=[
         # Trove classifiers
         # (https://pypi.python.org/pypi?%3Aaction=list_classifiers)
