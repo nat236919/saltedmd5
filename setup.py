@@ -11,12 +11,12 @@ setuptools.setup(
     name='saltedmd5',
     license='MIT',
     description='saltedmd5 is a python package for performing md5 hashing with salt.',
-    version='v0.0.1',
+    version='v0.0.2',
     long_description=README,
     url='https://github.com/nat236919/saltedmd5',
     packages=setuptools.find_packages(),
     python_requires=">=3.5",
-    install_requires=['random', 'string', 'hashlib'],
+    install_requires=[],
     classifiers=[
         # Trove classifiers
         # (https://pypi.python.org/pypi?%3Aaction=list_classifiers)
