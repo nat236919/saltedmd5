@@ -1,4 +1,4 @@
-# Salted MD5
+<p align="center"><a href="#"><img width=77% alt="" src="https://github.com/nat236919/saltedmd5/blob/master/docs/img/saltedmd5_logo_resized.pngg?raw=true"></a></p>
 <h2 align="center">Simple MD5 Hash that tastes salty</h2>
 
 <p align="center">
