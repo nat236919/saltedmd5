@@ -32,8 +32,8 @@ saltedmd5 can be installed from PyPI:
 pip install saltedmd5
 ```
 
-####  What it is
+###  What it is
 saltedmd5 is a work based on <b>hashlib</b>. It aims to provide developers with a Python functionality to generate simple **salted password hashing** which concerns the security of user account systems.
 
-####  Getting Involved
+###  Getting Involved
 Everybody is welcome, please feel free to get on board :)
