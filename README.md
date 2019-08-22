@@ -1,5 +1,5 @@
 # Salted MD5
-<h2 align="center">Simple MD5 hash that tastes salty</h2>
+<h2 align="center">Simple MD5 Hash that tastes salty</h2>
 
 <a href="https://pypi.org/project/saltedmd5/"><img alt="" src="https://img.shields.io/badge/pypi-0.0.2-blue.svg" align="center"></a>
 <a href=""><img alt="" src="https://img.shields.io/pypi/l/saltedmd5" align="center"></a>
