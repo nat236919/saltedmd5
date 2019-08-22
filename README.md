@@ -1,5 +1,4 @@
 <p align="center"><img width=77% alt="" src="https://github.com/nat236919/saltedmd5/blob/master/docs/img/saltedmd5_logo_resized.png?raw=true"></p>
-<h2 align="center">Simple MD5 Hash that tastes salty</h2>
 
 <p align="center">
 <a href="https://pypi.org/project/saltedmd5/"><img alt="" src="https://img.shields.io/badge/pypi-0.0.2-blue.svg" align="center"></a>
