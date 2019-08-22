@@ -11,11 +11,14 @@
 ```python
 from saltedmd5 import salting
 ```
+
 ```python
 # res = salting(<password>, <grams-of-salt>)
 res = salting('mypassword', 20)
 ```
+
 <p align="center"><b>Result:</b></p>
+
 ```
 res = {
 	'password': 'mypassword',
