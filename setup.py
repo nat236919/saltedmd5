@@ -11,8 +11,9 @@ setuptools.setup(
     name='saltedmd5',
     license='MIT',
     description='saltedmd5 is a python package for performing md5 hashing with salt.',
-    version='v0.0.2',
+    version='v1.0.0',
     long_description=README,
+    long_description_content_type='text/markdown',
     url='https://github.com/nat236919/saltedmd5',
     packages=setuptools.find_packages(),
     python_requires=">=3.5",
@@ -20,7 +21,7 @@ setuptools.setup(
     classifiers=[
         # Trove classifiers
         # (https://pypi.python.org/pypi?%3Aaction=list_classifiers)
-        'Development Status :: 4 - Beta',
+        'Development Status :: 2 - Pre-Alpha',
         'License :: OSI Approved :: MIT License',
         'Programming Language :: Python',
         'Programming Language :: Python :: 3.5',
@@ -28,5 +29,6 @@ setuptools.setup(
         'Topic :: Software Development :: Libraries',
         'Topic :: Software Development :: Libraries :: Python Modules',
         'Intended Audience :: Developers',
+        'Intended Audience :: End Users/Desktop'
     ],
 )
