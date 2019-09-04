@@ -38,7 +38,7 @@ class Salting:
             print('Whoops, something went terribly wrong with Seasoning :(')
             print(f'Error: {e}')
 
-        return self.data if is_successful else None
+        return self.data if is_successful else False
 
     def show_info(self):
         ''' Display Information after seasoning '''
