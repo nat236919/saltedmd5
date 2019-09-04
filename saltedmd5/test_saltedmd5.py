@@ -16,12 +16,13 @@ class TestSalting(unittest.TestCase):
 
     def tearDown(self):
         print('Tearing down the objects\n')
-    
+
     def test_seasoning(self):
         print('Testing seasoning()')
         self.assertEqual(self.user_1.is_seasoned, True)
         self.assertEqual(self.user_2.is_seasoned, True)
         self.assertEqual(self.user_3.is_seasoned, True)
+        self.assertEqual(self.user_4.is_seasoned, False)
 
     def test_show_info(self): 
         print('Testing show_info()')
