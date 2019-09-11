@@ -3,7 +3,7 @@ All notable changes to this project will be documented in this file.
 
 ## [Unreleased]
 
-## [1.0.4] - Sep 11, 2019
+## [1.0.4 - 1.0.5] - Sep 11, 2019
 ### Added
 - CHANGELOG.md
 
