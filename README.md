@@ -44,6 +44,7 @@ user_1.create_json('user_1')
 JSON created!!
 ```
 
+
 ### Installation
 
 saltedmd5 can be installed from PyPI:
@@ -52,8 +53,14 @@ saltedmd5 can be installed from PyPI:
 pip install saltedmd5
 ```
 
+
 ###  What it is
 saltedmd5 is a work based on <b>hashlib</b>. It aims to provide developers with a Python functionality to generate simple **salted password hashing** which concerns the security of user account systems.
+
+
+###  Changes
+Please refer to <a href="https://github.com/nat236919/saltedmd5/blob/master/docs/CHANGELOG.md?raw=true">CHANGELOG</a>
+
 
 ###  Getting Involved
 Everybody is welcome, please feel free to get on board :)
