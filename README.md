@@ -2,7 +2,7 @@
 <p align="center"><img width=77% alt="" src="https://github.com/nat236919/saltedmd5/blob/master/docs/img/saltedmd5_logo_resized.png?raw=true"></p>
 
 <p align="center">
-<a href="https://pypi.org/project/saltedmd5/"><img alt="" src="https://img.shields.io/badge/pypi-1.0.5-blue.svg"></a>
+<a href="https://pypi.org/project/saltedmd5/"><img alt="" src="https://img.shields.io/badge/pypi-1.0.7-blue.svg"></a>
 <a href="https://github.com/nat236919/saltedmd5/blob/master/LICENSE"><img alt="" src="https://img.shields.io/pypi/l/saltedmd5"></a>
 </p>
 
@@ -42,6 +42,15 @@ Passwords matched!!
 user_1.create_json('user_1')
 
 JSON created!!
+```
+
+
+### Available Methods
+```python
+.seasoning()
+.show_info()
+create_json(name_of_file)
+check_authentication(new_user_password)
 ```
 
 
